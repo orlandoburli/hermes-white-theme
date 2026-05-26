@@ -1,0 +1,29 @@
+name: white
+label: White
+description: "Clean white background with dark charcoal text — light theme"
+
+palette:
+  background: "#f5f0eb"
+  midground: "#1a1a2e"
+  foreground: "#2d2d44"
+  warmGlow: "rgba(200, 180, 160, 0.18)"
+  noiseOpacity: 0.25
+
+typography:
+  fontSans: '"Inter", system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
+  fontMono: '"JetBrains Mono", ui-monospace, "SF Mono", "Cascadia Mono", Menlo, Monaco, Consolas, monospace'
+  fontUrl: "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap"
+  letterSpacing: "-0.005em"
+
+layout:
+  radius: "0.5rem"
+
+colorOverrides:
+  destructive: "#dc2626"
+  success: "#16a34a"
+  warning: "#d97706"
+
+componentStyles:
+  backdrop:
+    filler-blend-mode: "screen"
+    filler-opacity: "0.04"
