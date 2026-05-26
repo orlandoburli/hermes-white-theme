@@ -1,5 +1,7 @@
 # White — Light Theme for Hermes Dashboard
 
+[![GitHub](https://img.shields.io/badge/repo-hermes--white--theme-blue)](https://github.com/orlandoburli/hermes-white-theme)
+
 A clean white/light theme for the [Hermes Agent](https://hermes-agent.nousresearch.com) web dashboard. Features an off-white background with dark charcoal text, Inter sans-serif, and JetBrains Mono for code.
 
 ## Preview
