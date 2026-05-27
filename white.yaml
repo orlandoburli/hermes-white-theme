@@ -32,3 +32,7 @@ customCSS: |
   :root {
     --font-mondwest: "Roboto", system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
   }
+  .hermes-kanban,
+  .hermes-kanban * {
+    text-transform: none !important;
+  }
