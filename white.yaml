@@ -27,3 +27,8 @@ componentStyles:
   backdrop:
     filler-blend-mode: "screen"
     filler-opacity: "0.04"
+
+customCSS: |
+  :root {
+    --font-mondwest: "Roboto", system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
