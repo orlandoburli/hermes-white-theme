@@ -2,14 +2,14 @@
 
 [![GitHub](https://img.shields.io/badge/repo-hermes--white--theme-blue)](https://github.com/orlandoburli/hermes-white-theme)
 
-A clean white/light theme for the [Hermes Agent](https://hermes-agent.nousresearch.com) web dashboard. Features an off-white background with dark charcoal text, Inter sans-serif, and JetBrains Mono for code.
+A clean white/light theme for the [Hermes Agent](https://hermes-agent.nousresearch.com) web dashboard. Features an off-white background with dark charcoal text, Roboto sans-serif, and JetBrains Mono for code.
 
 ## Preview
 
 - **Background:** `#f5f0eb` (warm off-white)
 - **Text:** `#1a1a2e` (dark charcoal)
 - **Accent:** Warm glow with reduced noise opacity
-- **Fonts:** Inter (UI) + JetBrains Mono (code)
+- **Fonts:** Roboto (UI) + JetBrains Mono (code)
 - **Backdrop:** Screen blend mode for light backgrounds
 
 ## Installation

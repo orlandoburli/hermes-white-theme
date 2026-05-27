@@ -10,9 +10,9 @@ palette:
   noiseOpacity: 0.25
 
 typography:
-  fontSans: '"Inter", system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
+  fontSans: '"Roboto", system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
   fontMono: '"JetBrains Mono", ui-monospace, "SF Mono", "Cascadia Mono", Menlo, Monaco, Consolas, monospace'
-  fontUrl: "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap"
+  fontUrl: "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=JetBrains+Mono:wght@400;500;700&display=swap"
   letterSpacing: "-0.005em"
 
 layout:
